@@ -1,0 +1,26 @@
+{
+  "name": "games",
+  "version": "1.0.0",
+  "description": "some games",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganabsher/games.git"
+  },
+  "keywords": [
+    "games"
+  ],
+  "author": "Logan Absher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loganabsher/games/issues"
+  },
+  "homepage": "https://github.com/loganabsher/games#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "page": "^1.7.1"
+  }
+}
